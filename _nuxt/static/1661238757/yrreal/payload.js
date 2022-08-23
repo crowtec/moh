@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/yrreal", {data:[{}],fetch:{},mutations:void 0});

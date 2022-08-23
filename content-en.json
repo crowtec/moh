@@ -1,0 +1,367 @@
+{
+  "header": {
+    "navbarItem1": "Adventures",
+    "navbarItem2": "Our journey",
+    "navbarItem3": "Contact",
+    "translation": {
+      "worldAlt": "World icon",
+      "arrowAlt": "Down arrow icon"
+    }
+  },
+  "button": { "text": "Download" },
+  "transmediaTitle": "Transmedia experiences",
+
+  "arrowText": "Adventures",
+  "otherAdventures": "Other adventures",
+  "footer": {
+    "contactButton": "Contact",
+    "text": "A project made by"
+  },
+  "downloadGame": {
+    "android": "Disponible en Google Play",
+    "ios": "Consíguelo en el App Store"
+  },
+
+  "landing": {
+    "home": {
+      "subtitle": "A geolocated adventure",
+      "article": {
+        "firstParagraph": " MoH unifies a virtual world with the real world. It is an <b>augmented reality</b> experience that uses the real world as a game board through <b>geolocation</b>.",
+        "secondParagraph": "The player is the protagonist of a story in which he has to move physically to complete the adventure."
+      },
+      "button": "Contact"
+    },
+    "journey": {
+      "title": "Our journey",
+      "ucmDescription": "In 'El Gran Secreto UCM' we will put ourselves at the feet of Marina, a young journalism student, whose vocation has come to her since she was a child, and who must discover her fate.",
+      "yrrealDescription": "Yrrealidad Aumentada is an Augmented Reality adventure from the Map of History universe available at El Retiro park in Madrid. In order to play, you must follow the police rookie and one of the inspectors (Mario or Andrea) to try to discover the whereabouts of Lucia, the masked suspect.",
+      "buzonMagico2021Description": "Help the Three Wise Men to deliver gifts in the city of Madrid and discover the endearing characters that will give you the necessary elements to write your letter.",
+      "buzonMagico2020Description": "Help the Three Wise Men to deliver gifts in the city of Madrid and discover the endearing characters that will give you the necessary elements to write your letter.",
+      "tiempoSanLorenzoDescription": "The Ministry of Time has given you a mission. Don't let the past change! The reign of Carlos III suffers a grave danger. The story begins in San Lorenzo de El Escorial.",
+      "postFataResurgoDescription": "Post Fata Resurgo is an adventure against the clock through the History of El Escorial, in which the historical events of the Leal Villa have been woven with the plot of Assassin's Creed."
+    },
+    "howToPlay": {
+      "title": "How to play?",
+      "phase1Name": "Scan",
+      "phase2Name": "Decipher",
+      "phase3Name": "Discover",
+      "phase4Name": "Progress"
+    },
+    "features": {
+      "feature1": {
+        "title": "Thematic difference",
+        "paragraph": "Moh is applicable to any story, movie, book or series. Real or fictitious."
+      },
+      "feature2": {
+        "title": "Argumentative difference",
+        "paragraph": "The player is the protagonist of the story, solving clues and challenges to advance the narrative."
+      },
+      "featuresName": {
+        "technology": "technology",
+        "gamification": "gamification",
+        "tourism": "tourism",
+        "augmentedReality": "augmented reality",
+        "narrative": "narrative"
+      }
+    },
+    "applications": {
+      "title": "Use cases",
+      "imgAlt": "Decorative triangle",
+      "indoorAdventures": {
+        "title": "Indoor adventures",
+        "useCases": {
+          "use1": {
+            "name": "Theme parks",
+            "imgAlt": "Wheel"
+          },
+          "use2": {
+            "name": "Zoo",
+            "imgAlt": "Clownfish"
+          },
+          "use3": {
+            "name": "Trades fairs and congresses",
+            "imgAlt": "Congress"
+          },
+          "use4": {
+            "name": "Trades fairs and congresses",
+            "imgAlt": "Airplane"
+          }
+        }
+      },
+      "tourism": {
+        "title": "Tourism",
+        "useCases": {
+          "use1": {
+            "name": "Historical, gastronomic and architectural routes",
+            "imgAlt": "Castle"
+          },
+          "use2": {
+            "name": "Paranormal and horror experiences",
+            "imgAlt": "Ghost"
+          },
+          "use3": {
+            "name": "Mathematical tourism",
+            "imgAlt": "Compass"
+          }
+        }
+      }
+    },
+    "sponsors": "Activity subsidised by the Ministry of Culture and Sports.",
+    "maskImg": "Mask",
+    "triangleImg": "Decorative triangle",
+    "backpackImg": "Backpack"
+  },
+
+  "yrreal": {
+    "home": {
+      "subtitle": "A geolocated adventure",
+      "article": "Yrrealidad Aumentada is an Augmented Reality adventure from the Map of History universe available at El Retiro park in Madrid. In order to play, you must follow the police rookie and one of the inspectors (Mario or Andrea) to try to discover the whereabouts of Lucia, the masked suspect.",
+      "videoText": "An investigative adventure in which you can interact with real and virtual elements in Madrid's park, El Retiro."
+    },
+    "characters": {
+      "title": "Characters",
+      "article1": {
+        "title": "Andrea",
+        "paragraph": "Opt for the traditional and methodical: if something goes well, why change it? And it is that, with its overwhelming logic, little can be refuted. Although, if what you want is to laugh... It may not be the best company."
+      },
+      "article2": {
+        "title": "Mario",
+        "paragraph": "Logic is not his forte, but he makes up for it with his great effusiveness and his large doses of humor, as well as his passion for his work. It may not be the best for learning, but how much fun are you going to have?"
+      },
+      "article3": {
+        "title": "Which inspector do you choose?",
+        "paragraph": "Completely opposite characters. Who would you prefer to accompany on this adventure? Will you opt for Andrea's reasoning and caution, or will you go for Mario's wisecracks and impulsiveness?"
+      }
+    },
+    "conceptArt": {
+      "charactersImg": "Yrreal characters"
+    },
+    "props": {
+      "mainTitle": "Props",
+      "title": "An attractive appearance",
+      "paragraph": "This transmedia adventure has a very careful aesthetic to resemble Yrreal as much as possible, which combines comics and animation with the real world. The characters have been modeled based on the concept art of the series and the actors who bring them to life.",
+      "objectSetImg": "Yrreal object set",
+      "glassesImg": "Glasses",
+      "maskImg": "Mask"
+    }
+  },
+  "ucm": {
+    "home": {
+      "title": "El gran secreto ucm",
+      "mainArticle": {
+        "title": "A geolocated adventure",
+        "paragraph": "In 'El Gran Secreto UCM' we will put ourselves at the feet of Marina, a young journalism student, whose vocation has come to her since she was a child, and who must discover her fate.",
+        "button": "Adventures",
+        "btnBgImg": "Button red background"
+      },
+      "textVideo": "'El gran secreto UCM' is an adventure from the Map of History universe, produced by Crowtec, in which we discover the campus and the history of the Complutense University of Madrid."
+    },
+    "adventure": {
+      "title": "Adventure",
+      "article1": {
+        "title": "The Great Secret",
+        "paragraph": "While we help our protagonist to discover the great secret that is hidden in this place, various characters will accompany us.",
+        "alt": "Characters"
+      },
+      "article2": {
+        "title": "Challenges",
+        "paragraph": "Marina must pass a series of tests in which the desire to learn, curiosity and perseverance will be essential.",
+        "alt": "World"
+      },
+      "article3": {
+        "title": "Fiction and reality",
+        "paragraph": "To know this story, we will get into a world that mixes fiction and reality, with the main objective of discovering the campus and the secrets it hides."
+      },
+      "cartel": {
+        "title": "Begin your adventure",
+        "paragraph": "Help Marina to discover 'The Great Secret' and restore the reason's light to a world plunged into the ignorance's darkness."
+      }
+    },
+    "places": {
+      "title": "Places",
+      "dialog": "This story will have its origin in the student building, one of the many places which I will visit on my adventure.",
+      "monumentImg": "Monument",
+      "loadImg": "Load",
+      "universities": {
+        "science": "Science",
+        "philoshopy": "Philoshopy",
+        "computerScience": "Computer science",
+        "medicine": "Medicine",
+        "somosagua": "Somosagua",
+        "paraninfo": "Paraninfo",
+        "principalship": "Principalship",
+        "vet": "Veterinary",
+        "zambrano": "Zambrano"
+      }
+    }
+  },
+  "buzonMagico2021": {
+    "home": {
+      "title": "La ruta del buzón mágico",
+      "sticker": "characters-sticker",
+      "mainArticle": {
+        "title": "A Christmas story in augmented reality",
+        "paragraph": "Help the Three Wise Men to distribute gifts in the city of Madrid and discover the endearing characters that will give you the necessary elements to write your letter.",
+        "button": "Download"
+      },
+      "secondaryArticle": {
+        "title": "A different board",
+        "paragraph": "Children and their families, using the city of Madrid as a game board, will live an augmented reality experience that connects them with the arrival of the Three Wise Men and invites them to a different and friendly dialogue with the city and its surroundings."
+      }
+    },
+    "adventure": {
+      "title": "Adventure",
+      "article": {
+        "title": "How to play?",
+        "paragraph": "To start this journey you must choose the Udai that you like the most. Then, you will have to pay attention to the instructions of the star to be able to find the characters."
+      }
+    },
+    "design": {
+      "title": "Design",
+      "article1": {
+        "img": "squirrel",
+        "title": "Different characters",
+        "paragraph": "In this adventure they won't be alone, since the star of Bethlehem will guide them throughout the entire route and they will be able to interact during the journey with different characters such as the camel Simón, or Pepiño, the Galician fox, among others, which will pose challenges and will give clues to them."
+      },
+      "article2": {
+        "img": "udai",
+        "title": "Mini-games",
+        "paragraph": "Throughout the game they will have to complete missions and funny mini-games to which they will have to pay close attention, since, in the end, there will be many surprises that will be hidden near the houses of all the children in Madrid."
+      },
+      "article3": {
+        "img": "characters 'Buzon Mágico 2021'",
+        "title": "More than a game",
+        "paragraph": "A journey full of challenges and surprises, a great adventure whose end is the delivery of the letter to the Three Wise Men using the Magic Mailbox."
+      },
+      "imgStar": "star"
+    },
+    "awards": {
+      "img": "certifcate",
+      "article1": {
+        "title": "The magic mailbox",
+        "paragraph": "The end goal of this adventure is to deliver the letter to the Three Wise Men, not through a physical mailbox, due to the health circumstances of that year, but it will be done in the most magical way that children can imagine."
+      },
+      "article2": {
+        "title": "Receive your certificate",
+        "paragraph": "At the end of this adventure you will get an official diploma for having completed The Route of the Magic Mailbox 2021."
+      }
+    }
+  },
+
+  "buzon-1": {
+    "home": {
+      "imgSnow": "snowflakes",
+      "article1": {
+        "subtitle": "A geolocated adventure",
+        "paragraph": "Help the Three Wise Men to deliver gifts in the city of Madrid and discover the endearing characters that will give you the necessary elements to write your letter."
+      },
+      "article2": {
+        "subtitle": "Augmented reality",
+        "paragraph": "Children and their families, using the real world as a game board, will live an augmented reality experience that will connect them with the arrival of the Three Wise Men."
+      }
+    },
+    "adventure": {
+      "backImg1": "snowflake",
+      "backImg2": "snowflake-half",
+      "title": "Adventure",
+      "article": {
+        "subtitle": "How to play?",
+        "paragraph": "Become your favorite Udai and follow the Star of Bethlehem. She will accompany you and guide you to complete the tests and you can deliver your letter in the magic mailbox of her Majesties."
+      },
+      "snowflakeImg": "Snowflake"
+    },
+    "design": {
+      "title": "Design",
+      "backImg": "fox",
+      "article1": {
+        "subtitle": "Endearing characters",
+        "paragraph": "The Star of Bethlehem will guide you during this adventure, but you will also have the opportunity to interact with different characters, such as Pepiño the fox or Diego the owl, and even Simon, King Melchor's camel!",
+        "alt": "Mailbox"
+      },
+      "article2": {
+        "subtitle": "Challenges",
+        "paragraph": "Children and their families, using the real world as a game board, will live an augmented reality experience that will connect them with the arrival of the Three Wise Men.",
+        "alt": "Udais"
+      },
+      "article3": {
+        "subtitle": "Augmented reality",
+        "paragraph": "The world of the Udai comes to life! Feed Simón the camel or play with Pepiño the fox as if they were by your side. Through augmented reality, you will be able to interact with the characters to complete the missions and deliver the letter on time.",
+        "alt": "Camels"
+      },
+      "foxImg": "Fox"
+    }
+  },
+  "tiempo-san-lorenzo": {
+    "home": {
+      "subtitle": "A geolocated adventure",
+      "article": "The Ministry of Time has given you a mission. Don't let the past change! The reign of Carlos III suffers a grave danger. The story begins in San Lorenzo de El Escorial.",
+      "videoText": "Start an adventure through San Lorenzo del Escorial and discover the city as you never imagined"
+    },
+    "characters": {
+      "title": "Characters",
+      "subtitle": "In the reign of Carlos III",
+      "paragraph": "Immerse yourself in this adventure and discover the history of San Lorenzo del Escorial from the hand of historical figures as relevant as King Carlos III.",
+      "symbolImg": "'Tiempo de San Lorenzo' symbol"
+    },
+    "props": {
+      "title": "Props",
+      "article1": {
+        "subtitle": "The scanner",
+        "paragraph": "Decipher, search and scan! Your mission will consist of going through San Lorenzo discovering and deciphering the different missions that the Ministry assigns you. Solve the clues, find the locations and, with the help of the scanner, solve all the historical messes that have occurred."
+      },
+      "article2": {
+        "subtitle": "No time left",
+        "paragraph": "What are you waiting for? Time is ticking and the Ministry of Time needs your help. Don't let the past change! The reign of Carlos III is in grave danger."
+      }
+    }
+  },
+  "postFataResurgo": {
+    "home": {
+      "title": "Post Fata Resurgo",
+      "mainArticle": {
+        "title": "A geolocated adventure",
+        "paragraph": "Post Fata Resurgo is an adventure against the clock through the History of El Escorial, in which the historical events of the Leal Villa have been woven with the plot of Assassin's Creed.",
+        "button": "Download"
+      },
+      "textVideo": "What did the Napoleonic troops come to El Escorial to look for? What couldn't José Bonaparte take from the Leal Villa? What made the municipality progress the following centuries?"
+    },
+    "adventure": {
+      "title": "Adventure",
+      "img": "game screenshot",
+      "article": {
+        "title": "The reason for its creation?",
+        "paragraph": "The first reason is to celebrate the bicentenary of the mention granted by Fernando VII in a different and innovative way. The second is to bring the History of El Escorial closer to youth, since Assassin's Creed is a teaching tool with incredible potential."
+      }
+    },
+    "places": {
+      "title": "Places",
+      "article1": {
+        "title": "How it works?",
+        "paragraph": "The application works in the purest style of the Assassin's Creed interface, acting as a minimap to show the player their location and the places of interest."
+      },
+      "article2": {
+        "title": "Scan and discover",
+        "paragraph": "The application also has a database in the purest Animus style, in which the clues, data and objects collected throughout the adventure are shown."
+      },
+      "article3": {
+        "title": "what does it about?",
+        "paragraph": "The adventure consists in gathering clues. Each clue, in the form of text and images, will be a piece of the Post Fata Resurgo story that will reference a location. Once that location is visited, the application, through geolocation, will reveal the next clue."
+      }
+    },
+    "awards": {
+      "title": "Awarded",
+      "article1": {
+        "title": "Awarded",
+        "paragraph": "Here we have the participants of the Post Fata Resurgo gymkhana, organized by the Complutense University of Madrid, posing with Ezio, Arno, Jacob, Elise and their prizes."
+      },
+      "article2": {
+        "title": "Cosplayers",
+        "paragraph": "The mission was very important and nothing could be left to chance. Ezio, Arno, Jacob, Elise... they were all warned because they were important and necessary for the mission and... they didn't fail."
+      }
+    }
+  },
+  "error": {
+    "text": "Sorry, page not found",
+    "text2": "Reload and try again"
+  }
+}

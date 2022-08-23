@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tiempo-san-lorenzo", {data:[{}],fetch:{},mutations:void 0});

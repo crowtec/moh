@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/post-fata-resurgo", {data:[{}],fetch:{},mutations:void 0});

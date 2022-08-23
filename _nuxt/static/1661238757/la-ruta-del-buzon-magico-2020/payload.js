@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/la-ruta-del-buzon-magico-2020", {data:[{}],fetch:{},mutations:void 0});

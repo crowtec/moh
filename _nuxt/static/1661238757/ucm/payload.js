@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ucm", {data:[{}],fetch:{},mutations:void 0});
